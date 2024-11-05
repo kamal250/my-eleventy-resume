@@ -1,105 +1,66 @@
 {
     "basics": {
-        "name": "Michael Engen",
-        "label": "Full-Stack Software Developer",
-        "email": "resume@michaelengen.com",
-        "url": "michaelengen.com",
+        "name": "Kamal Joshi",
+        "label": "Project Lead Solvative",
+        "email": "joshikamal250@gmail.com",
+        "url": "",
         "location": {
-            "city": "Columbus",
-            "region": "OH",
-            "countryCode": "US"
+            "city": "Ahmedabad",
+            "region": "GJ",
+            "countryCode": "IN"
         },
-        "summary": "I am a software developer skilled in full-stack development, technical writing, and scientific programming. Passionate about helping others through technology, I've built end-to-end testing tools, crafted extensive documentation, and worked directly with developers to identify product improvements. I value communication highly and have great experience presenting technical content, including six years of teaching experience, multiple published research papers, and presentations to technical and non-technical audiences.",
+        "summary": "14+ years of expertise and love to work on web platforms",
         "profiles": [
             {
-                "network": "in/michael-engen",
-                "url": "https://www.linkedin.com/in/michael-engen/"
+                "network": "Kamal Joshi",
+                "url": "https://www.linkedin.com/in/kamall-joshi-34280431/"
             }
         ]
     },
     "work": [
         {
-            "name": "PayPal, remote",
-            "position": "Integration Engineer III",
-            "startDate": "2021",
+            "name": "Solvative",
+            "position": "Project Lead",
+            "startDate": "11/2021",
             "endDate": "Present",
             "highlights": [
-                "Designed and developed full-stack application with Flask and Javascript for configuring and testing REST APIs in conjunction with frontend SDKs",
-                "Crafted extensive technical documentation and sample code for new product features to accelerate product adoption",
-                "Gathered product and documentation feedback by collaborating directly with external developers"
+                "Successfully delivered phase 1 of y first IIOT based project built on mechanical door",
+                "Helped team implementing solutions such as Ably Pub/Sub Channel integration & ElectronJS based desktop app to communicate with prototype of IIOT device",
+                "Worked on the second IIOT project centered aroundd dairy farms, I have played a key role in guiding the team to implement critical enhancements.",
+                "Such as 6 months of data storage offline, custom calibration chart integration, new control type, 2 different device builds & so on",
+                "I am playing a pivotal role in the enhancements of a transportation project, significantly optimizing its performance to the extent that the client now utilize it 90% of their loads"
             ]
         },
         {
-            "name": "Bridgerock Data",
-            "position": "Software Engineer",
-            "startDate": "2020",
-            "endDate": "2021",
+            "name": "iFlair Web Technologies",
+            "position": "Technical Manager",
+            "startDate": "09/2017",
+            "endDate": "11/2021",
             "highlights": [
-                "Created, managed, and migrated PostgreSQL databases in a data lake architecture",
-                "Identified external stakeholders' business-intelligence needs and produced custom SQL-powered reports for analyzing key performance indicators",
-                "Implemented a new database and computing infrastructure using Docker, shell, and AWS",
-                "Collaborated in an agile development environment and gained experience in a fast-paced startup"
+                "Led a team of fullstack JavaScript developers",
+                "Worked on microservice architecture",
+                "Worn multiple hats such as System Administrator, Sr. Web Developer, JavaScript expert"
             ]
         },
         {
-            "name": "University of Florida",
-            "position": "Software Developer",
-            "startDate": "2018",
-            "endDate": "2020",
+            "name": "iFlair Web Technologies",
+            "position": "Developer/Sr. Developer/Team Lead/Project Lead",
+            "startDate": "12/2010",
+            "endDate": "09/2017",
             "highlights": [
-                "Developed an open-source online learning platform for mathematics instructors",
-                "Worked directly with users to collect and implement product feedback"
-            ]
-        },
-        {
-            "name": "Université Paris 13",
-            "position": "Chateaubriand Research Fellow",
-            "startDate": "2019",
-            "endDate": "2019",
-            "period": "Fall&nbsp;2019",
-            "highlights": [
-                "Wrote successful application for a research collaboration with French computer scientists",
-                "Conducted novel mathematical research in a multicultural environment"
-            ]
-        },
-        {
-            "name": "Oak Ridge National Laboratory",
-            "position": "NSF Mathematical Sciences Graduate Intern",
-            "startDate": "May&nbsp;2017",
-            "endDate": "July&nbsp;2017",
-            "period": "Summer&nbsp;2017",
-            "highlights": [
-                "Developed a graph mining algorithm as a method of natural language feature selection for machine learning classification project"
+                "Worked on multiple technologies including PHP open sources - Magento 1, WordPress, Drupal, Typo3, etc. & PHP Frameworks - Symfony 2, Laravel 5+, CodeIgniter, etc. & mobile technologies - Cordova, PhoneGap, NativeScript & Native OS",
+                "Worked on JavaScript MEAN & Meteor projects."
             ]
         }
     ],
     "education": [
         {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Doctor of Philosophy",
-            "studyTypeShort": "Ph.D.",
-            "startDate": "2017",
-            "endDate": "2021",
-            "dissertation": "*Universal Combinatorial Structures*",
-            "focus": "Discrete Mathematics"
-        },
-        {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Master of Science",
-            "studyTypeShort": "M.S.",
-            "startDate": "2015",
-            "endDate": "2017",
-            "focus": "Discrete Mathematics"
-        },
-        {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Bachelor of Science",
-            "studyTypeShort": "B.S.",
-            "startDate": "2013",
-            "endDate": "2015"
+            "institution": "V.V.P. Engineering College",
+            "area": "Information Technology",
+            "studyType": "Bachelor of Engineering",
+            "studyTypeShort": "B.E.",
+            "startDate": "2006",
+            "endDate": "2010"
         }
     ]
 }
