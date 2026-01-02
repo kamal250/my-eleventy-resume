@@ -2,8 +2,8 @@
     "basics": {
         "name": "Kamal Joshi",
         "label": "Project Lead Solvative",
-        "email": "joshikamal250@gmail.com",
-        "url": "",
+        "emails": [{"email": "kamal@solvative.com"}, {"email": "joshikamal250@gmail.com"}],
+        "url": "ilajna.live",
         "location": {
             "city": "Ahmedabad",
             "region": "GJ",
@@ -12,8 +12,16 @@
         "summary": "14+ years of expertise and love to work on web platforms",
         "profiles": [
             {
-                "network": "Kamal Joshi",
+                "network": "LinkedIn",
                 "url": "https://www.linkedin.com/in/kamall-joshi-34280431/"
+            },
+            {
+                "network": "GitHub",
+                "url": "https://github.com/kamal250"
+            },            
+            {
+                "network": "X(Twitter)",
+                "url": "https://x.com/joshi_kamal250"
             }
         ]
     },

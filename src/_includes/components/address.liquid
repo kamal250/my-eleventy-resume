@@ -13,9 +13,9 @@
   </a>
   {%- endif -%}
 
-  {%- if basics.email %}
-  <a href="mailto:{{ basics.email }}">
-    {{- basics.email -}}
+  {%- for email in basics.emails -%}
+  <a href="mailto:{{ email.email }}">
+    {{- email.email -}}
   </a>
-  {%- endif %}
+  {%- endfor -%}
 </address>
