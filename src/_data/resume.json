@@ -9,7 +9,7 @@
             "region": "GJ",
             "countryCode": "IN"
         },
-        "summary": "14+ years of expertise and love to work on web platforms",
+        "summary": "Strategic Project Lead with 15+ years of experience in IT project delivery and technical leadership. Proven track record of delivering complex software solutions, leading cross-functional teams, and aligning engineering execution with business goals. Highly skilled in Agile methodology, stakeholder engagement, risk mitigation, and end-to-end project execution.",
         "profiles": [
             {
                 "network": "LinkedIn",
@@ -25,6 +25,36 @@
             }
         ]
     },
+    "coreskills": [
+        {
+            "label": "Project & Product Delivery",
+            "description": "Project Scheduling, Sprint Planning, Agile (Scrum), Backlog Grooming"            
+        },
+        {
+            "label": "Leadership & Team Management",
+            "description": "Cross-functional team leadership, mentorship, resource planning"            
+        },
+        {
+            "label": "Stakeholder Engagement",
+            "description": "Client communication, demos, progress reporting"            
+        },
+        {
+            "label": "Technical Oversight",
+            "description": "Software development lifecycle (SDLC), quality control, CI/CD, integration"            
+        },
+        {
+            "label": "Risk & Scope Control",
+            "description": "Risk identification, mitigation planning, scope definition & validation"            
+        },
+        {
+            "label": "Tools & Technologies",
+            "description": "JavaScript, PHP, CSS, Jira, Git, Agile tools"            
+        },
+        {
+            "label": "Architectures",
+            "description": "Micro-services, Backend APIs, IoT integration platforms"            
+        }
+    ],
     "work": [
         {
             "name": "Solvative",
@@ -32,11 +62,9 @@
             "startDate": "11/2021",
             "endDate": "Present",
             "highlights": [
-                "Successfully delivered phase 1 of y first IIOT based project built on mechanical door",
-                "Helped team implementing solutions such as Ably Pub/Sub Channel integration & ElectronJS based desktop app to communicate with prototype of IIOT device",
-                "Worked on the second IIOT project centered aroundd dairy farms, I have played a key role in guiding the team to implement critical enhancements.",
-                "Such as 6 months of data storage offline, custom calibration chart integration, new control type, 2 different device builds & so on",
-                "I am playing a pivotal role in the enhancements of a transportation project, significantly optimizing its performance to the extent that the client now utilize it 90% of their loads"
+                "Led multiple enterprise and IoT-driven product initiatives for international clients",
+                "Overseeing Agile delivery across logistics platforms, industrial device systems, and IoT security solutions.",
+                "Acted as the primary bridge between business stakeholders and technical teams, ensuring predictable delivery, quality outcomes, and stakeholder satisfaction."                
             ]
         },
         {
@@ -58,6 +86,54 @@
             "highlights": [
                 "Worked on multiple technologies including PHP open sources - Magento 1, WordPress, Drupal, Typo3, etc. & PHP Frameworks - Symfony 2, Laravel 5+, CodeIgniter, etc. & mobile technologies - Cordova, PhoneGap, NativeScript & Native OS",
                 "Worked on JavaScript MEAN & Meteor projects."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "RhinoSEC — IoT-Enabled Security Application",
+            "role": "Project Lead",
+            "overview": "Developed an IoT platform variant used to integrate Wi-Fi door sensors with backend logic to identify and alert on security threats for school buildings.",
+            "contributions": [
+                "Defined project deliverables, collected stakeholder requirements, and converted them into user stories with prioritized backlogs.",
+                "Managed Agile sprint schedule with daily scrums and weekly client reviews for visibility and alignment.",
+                "Balanced risk related to IoT communication, latency, and alerting; devised mitigation plans and testing strategies.",
+                "Led a focused team of 3 engineers, coordinated with hardware vendors, and oversaw real-time sensor integration workflows."
+            ]
+        },
+        {
+            "name": "NET Platform - Transportation Management System (TMS)",
+            "role": "Project Lead",
+            "overview": "Led Agile delivery of an enterprise logistics platform with carrier integrations, shipment tracking, invoicing, and dashboards, ensuring high-quality releases and stakeholder alignment.",
+            "contributions": [
+                "Led end-to-end Agile delivery of a logistics management platform involving carrier integrations, shipment tracking, invoicing, dashboards, and admin controls.",
+                "Owned project integration management, coordinating frontend, backend, and API development while maintaining alignment with business priorities.",
+                "Facilitated backlog grooming and sprint planning, translating stakeholder requirements into well-defined user stories and ensuring validated scope delivery.",
+                "Managed sprint schedules through daily stand-ups, sprint reviews, and retrospectives, adapting plans based on velocity, risk, and feedback.",
+                "Coordinated third-party integrations with LTL carriers (e.g., CRST, XPO, YRC, ABF), resolving vendor-specific issues impacting production systems."
+            ]
+        },
+        {
+            "name": "PMC - Industrial Device & Monitoring Platform",
+            "role": "Project Lead",
+            "overview": "Led Agile delivery of an industrial monitoring platform integrating Pivot and Chiller devices, coordinating firmware, backend, and frontend teams to ensure reliable releases.",
+            "contributions": [
+                "Managed Agile delivery for an industrial monitoring solution integrating Pivot and Chiller devices with web-based dashboards and analytics.",
+                "Directed project work across backend, and frontend teams, ensuring synchronization of deliverables and dependency management.",
+                "Facilitated sprint execution while managing scope adjustments caused by hardware dependencies and architectural constraints.",
+                "Engaged stakeholders through regular demos, mock-ups, and milestone check-ins, incorporating feedback from live field events and client reviews."
+            ]
+        },
+        {
+            "name": "ShirteeJS — Custom Print Design & eCommerce Application",
+            "role": "Technical Project Manager",
+            "overview": "Delivered a complete custom design & e-commerce platform that enables designers to visualize print layouts on multiple products (T-shirts, shoes, mugs, etc.) and support seamless order workflows.",
+            "contributions": [
+                "Led end-to-end Agile delivery from concept to production, including functional breakdown, sprint planning, technical reviews, and backlog refinement.",
+                "Defined and managed project scope, schedule, and quality standards; facilitated daily stand-ups, sprint retrospectives, and milestone reviews.",
+                "Orchestrated team of 8 developers/designers, promoted coding standards, and ensured feature readiness through acceptance criteria and testing.",
+                "Implemented CI/CD pipelines, oversaw infrastructure decisions, and established monitoring for performance and security.",
+                "Delivered multiple applications including vendor design tool, backend services for image processing, customer storefront, and e-commerce backend."
             ]
         }
     ],

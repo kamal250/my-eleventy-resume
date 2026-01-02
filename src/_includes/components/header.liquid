@@ -1,8 +1,12 @@
 <header>
   <h1>
     {{ basics.name }}
-    <br>
+    <br />
     <span>{{ basics.label }}</span>
+    <br />
+    {% if basics.location -%}
+      <span>{{ basics.location.city }},{{ basics.location.region }},{{ basics.location.countryCode }}</span>
+    {%- endif -%}
   </h1>
   {% 
     include "components/address.liquid", 

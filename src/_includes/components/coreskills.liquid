@@ -1,0 +1,13 @@
+<section>
+  <h2>Core Skills</h2>
+    <section>
+    {%- for coreskill in resume.coreskills %}
+        <ul>
+            <li>
+                <b>{{ coreskill.label }}:</b>
+                <span>{{ coreskill.description }}</span>
+            </li>
+        </ul>
+    {%- endfor %}
+    </section>
+</section>

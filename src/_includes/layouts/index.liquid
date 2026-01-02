@@ -25,8 +25,16 @@
       summary: resume.basics.summary 
     %}
     {% 
+      include "components/coreskills.liquid", 
+      coreskills: resume.coreskills 
+    %}
+    {% 
       include "components/experience.liquid", 
       work: resume.work
+    %}
+    {% 
+      include "components/projects.liquid", 
+      projects: resume.projects
     %}
     {% 
       include "components/education.liquid", 
