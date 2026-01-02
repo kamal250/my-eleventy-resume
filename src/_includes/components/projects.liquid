@@ -1,21 +1,17 @@
 <section>
-  <h2>Projects</h2>
+  <h2>Key Projects</h2>
   {%- for project in resume.projects %}
-    <section>
-      <header>
+    <div class="project-item">
+      <div class="project-header">
         <h3>{{ project.name }}</h3>
-        <p>{{ project.overview }}</p>
-        <span class="date">
-            {{ project.role }}
-        </span>
-      </header>
-      <ul>
+        <div class="project-role">{{ project.role }}</div>
+        <div class="project-overview">{{ project.overview }}</div>
+      </div>
+      <ul class="project-contributions">
         {%- for contribution in project.contributions %}
-          <li>
-            {{ contribution }}
-          </li>
+          <li>{{ contribution }}</li>
         {%- endfor %}
       </ul>
-    </section>
+    </div>
   {%- endfor %}
 </section>
