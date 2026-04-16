@@ -137,6 +137,13 @@
             ]
         }
     ],
+    "certificates": [
+        {
+            "name": "Hygraph Developer Certification",
+            "url": "https://credsverse.com/credentials/2677d152-3e13-480b-8c3d-a7c62e108eaa",
+            "issuedDate": "April, 2026"
+        }
+    ],
     "education": [
         {
             "institution": "V.V.P. Engineering College",

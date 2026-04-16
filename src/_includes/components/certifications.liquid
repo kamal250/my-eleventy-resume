@@ -1,0 +1,13 @@
+<section>
+  <h2>Certificates</h2>
+  {%- for certificate in resume.certificates %}
+    <div class="project-item">
+      <div class="project-header">
+        <a target="_new" href="{{ certificate.url }}">
+          {{- certificate.name -}}
+        </a>
+        <div class="project-role">Issued: {{ certificate.issuedDate }}</div>        
+      </div>      
+    </div>
+  {%- endfor %}
+</section>
